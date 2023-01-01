@@ -1,0 +1,21 @@
+.global-margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.global-margin-left{
+    margin-left: 100px;
+}
+.global-margin-right{
+    margin-right: 100px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin: 0 8px 0 8px;
+}
